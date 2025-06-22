@@ -14,7 +14,7 @@ Hi, I’m **Jerome Bright Ogenrwot** – a biotechnology graduate turned _bioinf
 | **Languages** | `Python` · `R` · `Bash` |
 | **Workflow / HPC** | `Nextflow (learning)` · `Snakemake` · SLURM |  
 | **Data Science & ML** | `Pandas` · `scikit-learn` · `Seaborn` · `TensorFlow (beginner)` |  
-| **Genomics** | `GATK` · `bcftools` · `samtools` · `FASTQC` · `CIBERSORT` | Variant Calling | Genome Assembly 
+| **Genomics** | `GATK` · `bcftools` · `samtools` · `FASTQC` · |
 | **Version Control** | `Git & GitHub` |
 | **OS / Environment** | 💻 `Linux` (CLI-first) · Docker/Singularity |
 
@@ -36,7 +36,7 @@ Hi, I’m **Jerome Bright Ogenrwot** – a biotechnology graduate turned _bioinf
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jerrybright_Ogenrwot-0A66C2?logo=linkedin)](https://www.linkedin.com/in/jerrybright-ogenrwot-151a48240)  
 [![Twitter](https://img.shields.io/badge/Twitter-@JerrybrightO-1DA1F2?logo=twitter)](https://twitter.com/JerrybrightO)
 
-__I am currently open to collaborating on open-source bioinformatics projects or simply developing my skills in genomics, ML, or synthetic biology through interships, graduate training or volunteership, both remotely and on site!__
+__I am currently open to collaborating on open-source bioinformatics projects or simply developing my skills in genomics, ML, or synthetic biology through internship, graduate training or volunteership, both remotely and on site!__
 
 
 <!--
