@@ -13,10 +13,10 @@ Hi, I’m **Jerome Bright Ogenrwot** – a biotechnology graduate turned _bioinf
 |------|--------------------|
 | **Languages** | `Python` · `R` · `Bash` |
 | **Workflow / HPC** | `Nextflow (learning)` · `Snakemake` · SLURM |  
-| **Data Science & ML** | `Pandas` · `scikit-learn` · `Seaborn` · `TensorFlow (beginner)` |  
+| **Data Science & ML** | `Pandas` · `scikit-learn` · `Seaborn` · |  
 | **Genomics** | `GATK` · `bcftools` · `samtools` · `FASTQC` · |
 | **Version Control** | `Git & GitHub` |
-| **OS / Environment** | 💻 `Linux` (CLI-first) · Docker/Singularity |
+| **OS / Environment** | `Linux` (CLI-first) · Docker/Singularity |
 
 ---
 
