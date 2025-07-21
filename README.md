@@ -1,10 +1,9 @@
 ## About Me  
-Hi, I’m **Jerome Bright Ogenrwot** – a biotechnology graduate turned _bioinformatician_ with extra certifications in **synthetic biology, genomics, and machine learning**.  
-- **Graduate Intern** &nbsp;@ **African Centres of Excellence in Bioinformatics (ACE)** – developing pipelines that marry wet-lab insight with HPC-powered analytics.  
-- **Development Lead** &nbsp;@ **Synbio Eco** – engineering _E. coli_ biosensors for environmental surveillance.  
+Hi, I’m **Jerome Bright Ogenrwot** – a biotechnology graduate turned _bioinformatician_ with extra skills in **synthetic biology, genomics, and machine learning**.  
+- **Research Lead** &nbsp;@ **Synbio Eco** – engineering _E. coli_ biosensors for environmental surveillance. 
+- **Graduate Volunteer** &nbsp;@ **African Centres of Excellence in Bioinformatics (ACE)** – developing pipelines that marry wet-lab insight with HPC-powered analytics.  
 - Focus areas: **clinical, pathogen & cancer genomics**.  
-- Mission: build reproducible workflows that turn complex sequencing data into actionable biological insight.
-
+- Make my mark iin genomics research
 ---
 
 ## Tech Stack  
@@ -13,7 +12,7 @@ Hi, I’m **Jerome Bright Ogenrwot** – a biotechnology graduate turned _bioinf
 |------|--------------------|
 | **Languages** | `Python` · `R` · `Bash` |
 | **Workflow / HPC** | `Nextflow (learning)` · `Snakemake` · SLURM |  
-| **Data Science & ML** | `Pandas` · `scikit-learn` · `Seaborn` · |  
+| **Data Science & ML** | `Data cleaning, 'Wranging' and 'manipulation'|Biopython 
 | **Genomics** | `GATK` · `bcftools` · `samtools` · `FASTQC` · |
 | **Version Control** | `Git & GitHub` |
 | **OS / Environment** | `Linux` (CLI-first) · Docker/Singularity |
@@ -36,7 +35,7 @@ Hi, I’m **Jerome Bright Ogenrwot** – a biotechnology graduate turned _bioinf
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jerrybright_Ogenrwot-0A66C2?logo=linkedin)](https://www.linkedin.com/in/jerrybright-ogenrwot-151a48240)  
 [![Twitter](https://img.shields.io/badge/Twitter-@JerrybrightO-1DA1F2?logo=twitter)](https://twitter.com/JerrybrightO)
 
-__I am currently open to collaborating on open-source bioinformatics projects or simply developing my skills in genomics, ML, or synthetic biology through internship, graduate training or volunteership, both remotely and on site!__
+__I am currently open to collaborating on open-source bioinformatics projects and upskilling in genomics, ML, or synthetic biology through internship, graduate training or volunteership, both remotely and on site!__
 
 
 <!--
