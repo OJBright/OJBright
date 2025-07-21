@@ -22,7 +22,7 @@ Hi, I’m **Jerome Bright Ogenrwot** – a biotechnology graduate turned _bioinf
 ## Current Projects 
 
 - **Review Paper:** _“Current State of Cancer Genomics Research in Uganda: Promises for the Future”_  
-- **Molecular Surveillance:** Zoonotic-pathogen profiling at the human–wildlife interface of **Murchison Falls NP**  
+- **Molecular Surveillance:** Zoonotic-pathogen profiling at a national park.
 - **Pangenomics:** _“Breast-cancer mutations in a pan-genomics era – Is it time to switch our reference genome?”_  
 - _Ongoing up-skilling_: Nextflow, protein engineering, advanced ML for omics.
 
