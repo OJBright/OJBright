@@ -1,7 +1,5 @@
 ## About Me  
 Hi, I’m **Jerome Bright Ogenrwot** – a biotechnology graduate turned _bioinformatician_ with extra skills in **synthetic biology, genomics, and machine learning**.  
-- **Research Lead** &nbsp;@ **Synbio Eco** – engineering _E. coli_ biosensors for environmental surveillance. 
-- **Graduate Volunteer** &nbsp;@ **African Centres of Excellence in Bioinformatics (ACE)** – developing pipelines that marry wet-lab insight with HPC-powered analytics.  
 - Focus areas: **clinical, pathogen & cancer genomics**.  
 - Make my mark iin genomics research
 ---
@@ -17,16 +15,7 @@ Hi, I’m **Jerome Bright Ogenrwot** – a biotechnology graduate turned _bioinf
 | **Version Control** | `Git & GitHub` |
 | **OS / Environment** | `Linux` (CLI-first) · Docker/Singularity |
 
----
 
-## Current Projects 
-
-- **Review Paper:** _“Current State of Cancer Genomics Research in Uganda: Promises for the Future”_  
-- **Molecular Surveillance:** Zoonotic-pathogen profiling at a national park.
-- **Pangenomics:** _“Breast-cancer mutations in a pan-genomics era – Is it time to switch our reference genome?”_  
-- _Ongoing up-skilling_: Nextflow, protein engineering, advanced ML for omics.
-
----
 
 ## Contacts and Socials 
 
